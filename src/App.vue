@@ -80,6 +80,7 @@ export default {
       links: [
         {label:'HOME' , url: '/'},
         {label:'LOGIN' , url:'/login'},
+        {label:'SIGNUP' , url:'/signup'},
         {label:'DASHBOARD' , url:'/dashboard'},
       ]
     }
